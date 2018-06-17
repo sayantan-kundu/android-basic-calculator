@@ -1,5 +1,5 @@
 # android-basic-calculator
-#USAGE:
+## USAGE:
 The app can perform basic calculation addition,subtraction,division,multiplication,power and square root.
 
 
